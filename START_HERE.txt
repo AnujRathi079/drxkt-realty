@@ -1,0 +1,12 @@
+DRXKT REALTY — START HERE
+
+1) Extract the ZIP.
+2) Open the extracted DRXKT_Realty_Premium folder.
+3) In the folder address bar type: cmd
+4) Run: npm install
+5) Run: npm start
+6) Open: http://localhost:3000
+
+All required website files are included in the public folder.
+Keep the terminal open while viewing the site.
+See README_HINGLISH.txt for configuration and troubleshooting.

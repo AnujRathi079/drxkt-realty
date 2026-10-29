@@ -1,0 +1,12 @@
+{
+  "name": "drxkt-realty-premium",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Premium animated DRXKT Realty website starter",
+  "scripts": {
+    "start": "http-server public -p 3000 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
